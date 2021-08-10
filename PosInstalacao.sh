@@ -11,6 +11,8 @@
 
 # PACOTES SÓ COM O APT
 
+sudo apt install git
+
 sudo apt install python3-seaborn
 
 # O seaborn já instala o pandas
