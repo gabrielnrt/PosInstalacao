@@ -34,6 +34,7 @@ sudo apt install python3-seaborn
 
 sudo apt install python3-pip
 pip3 install -U scikit-learn
+pip3 install pmdarima
 pip3 install cvxpy
 
 sudo apt update
