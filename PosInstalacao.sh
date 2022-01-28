@@ -37,6 +37,7 @@ sudo apt install python3-pip
 pip3 install -U scikit-fuzzy
 pip3 install -U scikit-learn
 pip3 install pyclustering
+pip3 install apyori
 pip3 install pmdarima
 pip3 install cvxpy
 
