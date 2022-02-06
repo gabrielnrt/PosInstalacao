@@ -6,6 +6,7 @@
 # Spotify
 # Atom
 # WhatsApp
+# TexLive e TexMaker (O TexLive tem que ser instalado primeiro)
 
 #-----------------------------------------------------------------------------
 
