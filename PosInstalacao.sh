@@ -42,6 +42,8 @@ pip3 install pyclustering
 pip3 install apyori
 pip3 install pmdarima
 pip3 install cvxpy
+pip3 install pandas_datareader # pra pegar dados do mercado financeiro
+
 
 sudo apt update
 sudo apt upgrade
