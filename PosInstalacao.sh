@@ -14,6 +14,8 @@
 
 sudo apt install git
 
+sudo apt install python3-bs4 # Ver em qual das bibliotecas abaixo o Beautiful Soup já vem instalado nas dependências
+
 sudo apt install python3-seaborn
 
 # O seaborn já instala o pandas
