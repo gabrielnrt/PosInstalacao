@@ -45,6 +45,7 @@ pip3 install apyori
 pip3 install pmdarima
 pip3 install cvxpy
 pip3 install pandas_datareader # pra pegar dados do mercado financeiro
+pip3 install sqlalchemy
 
 
 sudo apt update
