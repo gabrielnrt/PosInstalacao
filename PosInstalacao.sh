@@ -9,7 +9,14 @@
 # TexLive e TexMaker (O TexLive tem que ser instalado primeiro)
 
 #-----------------------------------------------------------------------------
+# Arquivos do tipo .deb
 
+# Discord
+# Google Chrome
+
+
+
+#-----------------------------------------------------------------------------
 # PACOTES SÓ COM O APT
 
 sudo apt install git
